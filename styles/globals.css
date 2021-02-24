@@ -1,0 +1,21 @@
+html,
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  overflow-x: hidden;
+  vertical-align: baseline;
+  scroll-behavior: smooth;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
