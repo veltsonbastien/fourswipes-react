@@ -2,10 +2,10 @@
 A collaborative effort to bring non-nuanced, non-biased, and factual news. We seek to use the IBM Watson's NLP interface to track different stats about articles posted on our site, and hope to bring those heuristics into a format that makes it understandable and digestable for the user. Interested in working with us? 
 
 ## The Team: 
-Erwin Acuario 
-Veltson Bastien
+- Erwin Acuario: Backend Developer, will be focusing on building the Database structure and maintaining the site architecture. 
+- Veltson Bastien: Frontend Developer, will be focusing on designing the layout and a beautifully flowing UI/UX. 
 
-## Dev Resources 
+# Dev Resources 
 1) Use https://draftjs.org/ to give users a way to write once we get there. 
 2) Use https://prismic.io/docs/technologies/integrating-with-an-existing-react-project as a way to display the rich text that we will have on the site. 
 
